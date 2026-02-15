@@ -1,0 +1,15 @@
+
+1. Champions (High Spend, Recent, Frequent)
+   - Action: Offer early access to new product launches.
+   - Action: Implement a "Refer a Friend" reward program.
+   - Action: Send personalized thank-you notes or exclusive gifts.
+
+2. Loyal Customers (Good Spend and Frequency)
+   - Action: Upsell higher-value items based on purchase history.
+   - Action: Invite to a loyalty point program to encourage retention.
+   - Action: Offer free shipping thresholds to increase basket size.
+
+3. At Risk (Used to buy often, but haven't recently)
+   - Action: Send "We Miss You" emails with a limited-time discount.
+   - Action: Request feedback on their last purchase experience.
+   - Action: Recommend products similar to their past favorites.
