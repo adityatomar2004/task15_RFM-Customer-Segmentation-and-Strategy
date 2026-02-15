@@ -6,7 +6,7 @@ This project performs **Customer Segmentation** using the **RFM (Recency, Freque
 ## 📊 Visual Analysis
 Below is the distribution of customer segments based on the RFM scores.
 
-![Customer Segmentation Chart](segment_chart.png)
+
 <img width="1000" height="600" alt="segment_chart" src="https://github.com/user-attachments/assets/c10e5eac-6723-4ca8-ab9d-f2a7401209e1" />
 
 
